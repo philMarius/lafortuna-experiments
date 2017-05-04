@@ -31,3 +31,9 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Code that isn't my own
+not-my-code/
+
+# Submission zip
+*.zip
