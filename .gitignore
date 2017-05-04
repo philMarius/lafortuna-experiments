@@ -37,3 +37,6 @@ not-my-code/
 
 # Submission zip
 *.zip
+
+# vscode files
+.vscode/
